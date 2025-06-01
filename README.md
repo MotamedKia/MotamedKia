@@ -10,7 +10,7 @@ I'm **@MotamedKia**, an Android enthusiast passionate about building beautiful a
 - 🌱 **Currently Learning:** Advancing my Kotlin skills and best practices  
 - 🤝 **Open to Collaborate:** On Android-related projects or anything exciting in the dev world  
 - 📫 **How to Reach Me:**  
-  🔗 [Connect on LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+  🔗 [Connect on LinkedIn](https://www.linkedin.com/in/amir-motamedkia)
 
 ---
 
